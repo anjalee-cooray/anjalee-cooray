@@ -2,7 +2,7 @@
 
 **Associate Technical Lead** · Full-Stack Engineer (Java/Spring Boot + React/Angular/React Native) · 7+ years building distributed systems
 
-📍 Colombo, Sri Lanka · 🔗 [LinkedIn](https://www.linkedin.com/in/pubuducooray) · 📧 [bpacooray@gmail.com](mailto:bpacooray@gmail.com)
+📍 Colombo, Sri Lanka · 🔗 [LinkedIn](https://www.linkedin.com/in/pubuducooray) · ✍️ [Medium](https://anjaleecoo.medium.com/) · 📧 [bpacooray@gmail.com](mailto:bpacooray@gmail.com)
 
 I design and lead the delivery of **microservices**, **event-driven**, and **spec-driven architectures** — from healthcare compliance platforms to subscription billing systems to internal engineering tooling. Since January 2019 I've moved from Software Engineer to Associate Technical Lead, driving architecture decisions, mentoring engineers, and shipping production systems on AWS.
 
@@ -77,4 +77,4 @@ Building and open-sourcing the boilerplates and specs behind production-grade, m
 
 Open to conversations on microservices, event-driven architecture, healthcare/fintech platforms, and spec-driven engineering practices.
 
-[LinkedIn](https://www.linkedin.com/in/pubuducooray) · [Email](mailto:bpacooray@gmail.com) · [Portfolio](https://anjalee-cooray.github.io/)
+[LinkedIn](https://www.linkedin.com/in/pubuducooray) · [Medium](https://anjaleecoo.medium.com/) · [Email](mailto:bpacooray@gmail.com) · [Portfolio](https://anjalee-cooray.github.io/)
